@@ -1,0 +1,1 @@
+//find the product of pythagorean triplet a^2 + b^2 = c^2 s.t. a+b+c=1000
